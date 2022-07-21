@@ -1,4 +1,4 @@
-# Project-3
+# CareerBuilder Job Filterer
 Jack Moletteire, Rayyan Merchant, Cody Sauermann
 
 
