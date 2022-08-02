@@ -1,4 +1,4 @@
-# CareerBuilder Job Filterer
+# CareerBuilder Job Filter
 Jack Moletteire, Rayyan Merchant, Cody Sauermann
 
 
